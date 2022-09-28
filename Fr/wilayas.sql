@@ -84,7 +84,18 @@ INSERT INTO `wilayas` (`id`, `code`, `nom`) VALUES
 (45, 45, 'Naâma'),
 (46, 46, 'Aïn Témouchent'),
 (47, 47, 'Ghardaïa'),
-(48, 48, 'Relizane');
+(48, 48, 'Relizane'),
+(49, 49, 'Timimoun'),
+(50, 50, 'Bordj Badji Mokhtar'),
+(51, 51, 'Ouled Djellal'),
+(52, 52, 'Béni Abbès'),
+(53, 53, 'In Salah'),
+(54, 54, 'In Guezzam'),
+(55, 55, 'Touggourt'),
+(56, 56, 'Djanet'),
+(57, 57, 'El M'Ghair'),
+(58, 58, 'El Meniaa');
+
 
 --
 -- Index pour les tables exportées
